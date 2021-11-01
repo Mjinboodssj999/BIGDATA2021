@@ -5,7 +5,7 @@
 - **Escuela Profecional:** Ingenieria Informatica y de Sistemas
 
 #### Docente:
-- **CARLOS FERNANDO MONTOYA CUBAS** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+- **CARLOS FERNANDO MONTOYA CUBAS**
 
 #### Proyecto: “BIGDATA2021”
-#### Alumno:**Sarco Jacinto Daniel Eduardo** - GitHub Account - [Mjinboodssj999](https://github.com/Mjinboodssj999)
+#### Alumno: **Sarco Jacinto Daniel Eduardo** - GitHub Account - [Mjinboodssj999](https://github.com/Mjinboodssj999)
